@@ -18,7 +18,7 @@ T/F: Thinking or Feeling- describes how people make decisions.
 
 J/P: Judging or Perceiving- describes how people approach structure in their lives.
 
-#“Which personality type is most common in the “best” countries? What personality is the least common in the “best countries”? Is there any correlation with their average GNI per Capita?”
+# “Which personality type is most common in the “best” countries? What personality is the least common in the “best countries”? Is there any correlation with their average GNI per Capita?”
 
 
 # Top 10 Countries according to US News
