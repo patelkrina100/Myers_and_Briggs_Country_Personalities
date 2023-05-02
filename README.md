@@ -43,9 +43,9 @@ Gross National Income (GNI) per capita is the a country’s final income per yea
 Gross National Income (GNI) is a measurement of the social, economic, and environmental well-being of a country and its citizens. 
 
 
-## OUR FINDINGS 
+# OUR FINDINGS 
 
-# AVERAGE GNI PER CAPITA FOR…
+## AVERAGE GNI PER CAPITA FOR…
 Canada is $37334.28.
 Japan is $35567.03.
 Germany is $38690.48.
@@ -106,5 +106,19 @@ There is a negative correlation as shown by the regression line.
 Correlation Coefficient: (-30857.776)
 
 A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.
+
+
+We found that INFP-T is the most popular personality trait in all of the 10 best countries, and the least most popular personality is ESTP-T. 
+When looking at other countries in the dataset, we found that each of the other countries varied greatly in their most popular personality type percentage. 
+For example, in Afghanistan, the most popular personality trait is ESTJ-A. However, in each of the 10 best countries, the most popular personality trait remained constant.  
+
+According to the regression line, there is a negative correlation between countries with higher incomes and countries with a higher population percentage of INFP-T. So, of the 10 best countries, those with higher incomes actually have a lower percentage of INFP-T population percentages. 
+This is very interesting, because INFP-T is a rare personality trait according to 16personalities.com.
+INFP personalities, or Mediators, share a sincere curiosity about the depths of human nature. Introspective to the core, they’re exquisitely attuned to their own thoughts and feelings, but they yearn to understand the people around them as well. Mediators are compassionate and nonjudgmental, always willing to hear another person’s story. When someone opens up to them or turns to them for comfort, they feel honored to listen and be of help. 
+
+Knowing that this is the most common personality trait in the top 10 countries, we can better understand what type of trait is best needed for a company to be strong and for people to work together in harmony. Seeing correlation shows that there are clear patterns between GNI per Capita and personality types. Understanding that Mediators are negatively correlated with average GNI per Capita introduces many new questions about how we can understand human nature in numbers and personality data. 
+
+
+The least common personality trait was ESTP. An Entrepreneur (ESTP) is someone with the Extraverted, Observant, Thinking, and Prospecting personality traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits.
 
 
