@@ -1,4 +1,4 @@
-# Myers_and_Briggs_Country_Personalities
+# Myers and Briggs Country Personalities
 Analyzed each of the top 10 countries with their most and least common MBTI personality types to search for any correlation with their average Gross National Income per capita
 
 # About
